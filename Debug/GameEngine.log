@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Users\danag\Documents\FILS\Anul III\ACG\Proiect 2\GameEngine 5\GameEngine\main.cpp(161,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\Proiect 2\GameEngine 5\GameEngine\main.cpp(178,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\Proiect 2\GameEngine 5\GameEngine\main.cpp(274,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\Proiect 2\GameEngine 5\GameEngine\main.cpp(324,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\Proiect 2\GameEngine 5\GameEngine\main.cpp(406,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\Proiect 2\GameEngine 5\GameEngine\main.cpp(429,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\Proiect 2\GameEngine 5\GameEngine\main.cpp(430,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\Proiect 2\GameEngine 5\GameEngine\main.cpp(431,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\danag\Documents\FILS\Anul III\ACG\Proiect 2\GameEngine 5\GameEngine\main.cpp(433,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(4563,27): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\danag\Documents\FILS\Anul III\ACG\Proiect 2\GameEngine 5\GameEngine\main.cpp(156): message : see reference to function template instantiation '_OutIt *std::fill_n<float*,int,int>(_OutIt,const _Diff,const _Ty &)' being compiled
+          with
+          [
+              _OutIt=float *,
+              _Diff=int,
+              _Ty=int
+          ]
+  GameEngine.vcxproj -> C:\Users\danag\Documents\FILS\Anul III\ACG\Proiect 2\GameEngine 5\Debug\GameEngine.exe
